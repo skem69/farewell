@@ -11,13 +11,19 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
 </head>
     <body>
-        <div class="background">
-            <div class="space stars1"></div>
-            <div class="space stars2"></div>
-            <div class="space stars3"></div>
-        </div>
         <h1 id="hey">my final goodbye!</h1>
         <img id="wave" src="wave.png">
+
+        <script>
+            function play() {
+              var audio = document.getElementById("audio");
+              audio.play();
+            }
+          </script>
+      
+          <input type="button" value="click me!" onclick="play()">
+          <audio id="audio" src="meta.mp3"></audio>
+
             <h2 id="snickers">Snickers;</h2>
             <p>Oh snickers, my favourite moderation doggo and an extremely good friend. I've enjoyed the conversations we've had, even if they've been short you've always been there.</p>
 
@@ -46,7 +52,7 @@
             
             <div class="bottom"
             <h3>I rushed this site, but if you'd like to see the sloppy source you can find it</h3>
-            <a href="https://github.com/skem69/farewell">here.</a>
+            <a href="https://github.com/skem69/farewell" target="_blank">here.</a>
             </div>
         </body>
 </html>
