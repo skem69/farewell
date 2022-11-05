@@ -1,0 +1,108 @@
+body {
+    background-color: #191919;
+}
+
+#hey {
+position: absolute;
+width: 368px;
+height: 118px;
+left: 768px;
+top: 0px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+line-height: 144px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 81px rgba(255, 255, 255, 0.36); 
+}
+
+#wave {
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1110px;
+top: 70px;
+}
+
+p {
+color: white;
+font-family: "Poppins";
+text-align: center;
+margin-left: 35px;
+}
+
+#snickers {
+font-family: "Poppins";
+text-align: center;
+color: white;
+margin-top: 150px;
+margin-left: 35px;
+}
+
+#anthony {
+font-family: "Poppins";
+text-align: center;
+color: white;
+margin-top: 50px;
+margin-left: 35px;
+}
+
+#cz {
+    font-family: "Poppins";
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    margin-left: 35px;
+    }
+
+#jet {
+font-family: "Poppins";
+text-align: center;
+color: white;
+margin-top: 50px;
+margin-left: 35px;
+}
+
+#lama {
+font-family: "Poppins";
+text-align: center;
+color: white;
+margin-top: 50px;
+margin-left: 35px;
+}
+
+#half {
+font-family: "Poppins";
+text-align: center;
+color: white;
+margin-top: 50px;
+margin-left: 35px;
+}
+
+#dima {
+font-family: "Poppins";
+text-align: center;
+color: white;
+margin-top: 50px;
+margin-left: 35px;
+}
+
+#ipad {
+font-family: "Poppins";
+text-align: center;
+color: white;
+margin-top: 50px;
+margin-left: 35px;
+}
+
+#farewell {
+padding-top: 50px;
+text-align: center;
+}
+
+.bottom {
+    font-family: "Poppins";
+    color: white;
+    text-align: center;
+}
